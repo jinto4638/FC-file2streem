@@ -1,7 +1,8 @@
 class Translation(object):
-    START_TEXT = """Hello,
-I'm FC telegram bot ,
-You can convert any Telegram Document tostreamable video and vice versa, using this bot! With custom thumbnail
+    START_TEXT = """Hello....\n
+I'm FC telegram bot bot maintained by  [this person](tg://user?id={}) .\n\n
+You can convert any Telegram Document to streamable video and vice versa, using this bot! With custom thumbnail
+     you can check more /help
      
     """
     ABS_TEXT = " Please don't be selfish."
@@ -24,8 +25,7 @@ You can convert any Telegram Document tostreamable video and vice versa, using t
 Telegram ID: <code>{}</code>
 Plan name: <a href='https://t.me/InFoTelGroup/174'>{}</a>
 Expires on: {}"""
-    HELP_USER = """I can do:
-👉 <a href="https://telegram.dog/FileConvertRobot">Convert To Streamable video any telegram file</a>
+    HELP_USER = """I can do: Convert To Streamable video any telegram file
 --------
 
 🔥 How to deploy : <a href='https://github.com/jinto4638/FC-file2streem'>Click here</a>
@@ -35,7 +35,8 @@ Expires on: {}"""
     © credits : @fcfilmcorner
     © credits : @jintons
 
-Send /me to know current plan details
+/upgrade - Upgrade your status  /converttovideo - Convert to Streamable Video
+
 
 """
 
